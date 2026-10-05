@@ -1,0 +1,1 @@
+Seguí todas las intrucciones de @AGENTS.md
