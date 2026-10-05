@@ -4,6 +4,7 @@
 **Estado:** Borrador para entrega  
 **Tipo:** Proyecto final — AI Builders
 
+
 ---
 
 ## 1. Contexto y problema
